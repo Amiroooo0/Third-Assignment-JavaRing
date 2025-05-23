@@ -106,8 +106,6 @@ Create a simple **turn-based combat system** in a main game loop:
 6. If the player defeat the monster, they'll be rewarded and they can proceed.
 7. Game ends when either the player dies.
 
-**Note:** Mana is a bar like HP which is used for magic spells, considering every player has default magic abilites but Wizard is focusing on that. You can either update mana every round and add some to it, or by beating enemies.
-
 <br />
 🔹 Example game loop structure:  
 
